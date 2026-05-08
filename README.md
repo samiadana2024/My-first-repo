@@ -2,4 +2,4 @@
 
 This is my first Git Repository
 <br>
-Author - Md Adnan Sami
+Author - Md Adnan (Sami)
